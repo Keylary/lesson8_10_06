@@ -1,0 +1,6 @@
+[requires]
+gtest/cci.20210126
+protobuf/3.17.1
+
+[generators]
+visual_studio
